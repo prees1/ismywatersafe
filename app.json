@@ -36,6 +36,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "ffbaac8f-20e6-41dd-91a2-ec20b64925b8"
+      }
+    },
+    "owner": "prees"
   }
 }
